@@ -1,5 +1,5 @@
 paris = {
-    "name": "show stopper",
+    "name": "Show Stopper",
     "disguises": [
         "Tuxedo",
         "Auction Staff",
@@ -29,8 +29,7 @@ paris = {
         "Poison"
     ]
 }
-
-sapienza = {"name": "world of tomorrow", "disguises": [
+sapienza = {"name": "World of Tomorrow", "disguises": [
     "Italian Suit",
     "Biolab Security",
     "Bodyguard",
@@ -291,7 +290,7 @@ santa_fortuna = {
 }
 
 mumbai = {
-    "name": "Chasing a ghost",
+    "name": "Chasing a Ghost",
     "outfits": [
         "Imperial Classic",
         "Barber",
