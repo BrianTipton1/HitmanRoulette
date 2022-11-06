@@ -221,7 +221,7 @@ locations = [
     {
         "location": "miami",
         "mission_name": "The Finish Line",
-        "outfits": [
+        "disguises": [
             "Florida Fit",
             "Aeon Driver",
             "Aeon Mechanic",
@@ -285,7 +285,7 @@ locations = [
             "Explosive",
             "Poisons",
         ],
-        "outfits": [
+        "disguises": [
             "Casual Tourist",
             "Barman",
             "Chef",
@@ -311,7 +311,7 @@ locations = [
     {
         "location": "mumbai",
         "mission_name": "Chasing a Ghost",
-        "outfits": [
+        "disguises": [
             "Imperial Classic",
             "Barber",
             "Bollywood Bodyguard",
@@ -355,7 +355,7 @@ locations = [
     {
         "location": "wilton_creek",
         "mission_name": "Another Life",
-        "outfits": [
+        "disguises": [
             "Suburban Suit",
             "Arkian Robe",
             "BBQ Owner",
@@ -397,7 +397,7 @@ locations = [
     {
         "location": "isle_of_sgail",
         "mission_name": "The Ark Society",
-        "outfits":
+        "disguises":
         [
             "Tuxedo and Mask",
             "Architect",
@@ -446,7 +446,7 @@ locations = [
     {
         "location": "new_york",
         "mission_name": "Golden Handshake",
-        "outfits": [
+        "disguises": [
             "The New Yorker",
             "Bank Robber",
             "Bank Teller",
@@ -476,7 +476,7 @@ locations = [
     {
         "location": "haven_island",
         "mission_name": "The Last Resort",
-        "outfits": [
+        "disguises": [
             "The Tropical Islander",
             "Boat Captain",
             "Bodyguard",
@@ -518,7 +518,7 @@ locations = [
     {
         "location": "dubai",
         "mission_name": "The Top of the World",
-        "outfits": [
+        "disguises": [
             "Ashen Suit ",
             "Art Crew",
             "Event Security",
@@ -551,7 +551,7 @@ locations = [
     {
         "location": "dartmoor",
         "mission_name": "Death in the Family",
-        "outfits": [
+        "disguises": [
             "Classic Cut Long Coat Suit",
             "Bodyguard",
             "Gardener",
@@ -587,7 +587,7 @@ locations = [
     {
         "location": "berlin",
         "mission_name": "Apex Predator",
-        "outfits":
+        "disguises":
         [
             "Number Six ",
             "Rave On Suit",
@@ -622,7 +622,7 @@ locations = [
     {
         "location": "chingqing",
         "mission_name": "End of an Era",
-        "outfits":
+        "disguises":
         [
             "Neon City Suit ",
             "Block Guard",
@@ -658,7 +658,7 @@ locations = [
     {
         "location": "mendoza",
         "mission_name": "The Farewell",
-        "outfits": [
+        "disguises": [
             "Black & White Tuxedo Set",
             "47's Signature Suit with Gloves",
             "Asado Chef",
